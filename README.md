@@ -1,1 +1,1 @@
-# Exercicios-Avulsos
+# Exercícios Avulsos - Lógica de Programação
